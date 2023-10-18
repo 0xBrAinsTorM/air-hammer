@@ -1,6 +1,8 @@
 Air-Hammer - A WPA Enterprise horizontal brute-force attack tool
 ==========
 *Created by Michael "Wh1t3Rh1n0" Allen, 2016-09-01*
+Updated by ChatGPT to work with Python3 -> air-hammer_v3.py
+Updated by ChatPGT to feed a username:password file instead of two separeted files -> air-hammer_userpass_v3.py
 
 Introduction
 ------------
